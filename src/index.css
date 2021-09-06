@@ -5,9 +5,20 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color:#1d1d24  ;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.lazy-load{
+  text-align: center;
+  /* padding: 10%;
+  margin: 200px; */
+  
+ 
+}
+h1{
+  color: blue;
 }

@@ -1,0 +1,55 @@
+.pivot-item{
+    color: rgb(28, 108, 119);
+}
+h3{
+    color: white;
+    margin-left: 10px;
+
+}
+
+.ms-Pivot .ms-Button:hover {
+    background: transparent;
+    color: rgb(4, 107, 107);
+  }
+  
+  .ms-Pivot .ms-Button {
+    color: white;
+  }
+  .ms-Pivot .is-selected {
+    color: rgb(246, 253, 253);
+  }
+    .ms-Pivot .is-selected::before {
+
+        background-color: rgb(11, 128, 128);
+      
+      }
+   
+    .ms-Pivot .is-selected {
+
+        color: rgb(11, 128, 128);
+      
+      }
+   
+    #location{
+        float: right;
+        margin: 0;
+        padding: 0;
+
+    }
+.upload{
+    float: right;
+    color: teal;
+}
+.cloud{
+    color: teal;
+    font-size: 20px;
+    margin-right: 9px;
+
+  
+}
+.refresh{
+    margin-left: 8px;
+}
+.lc{
+    margin-bottom: 5px;
+}

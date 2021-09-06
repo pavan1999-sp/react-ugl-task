@@ -1,0 +1,290 @@
+{
+
+	"MaintenanceHistory": [{
+			
+			"Type": "SN",
+			"Date": "08 / 01 / 2021",
+			"No": 608532989512,
+			"Notifiation": "Placeholder for Notification DEscription",
+			"status": "open",
+			"priority": "Top"
+
+
+
+
+		},
+		{
+			
+			"Type": "SN",
+			"Date": "08 / 01 / 2021",
+			"No": 608532989512,
+			"Notifiation": "Placeholder for Notification DEscription",
+			"status": "open",
+			"priority": "Top"
+
+
+
+
+		},
+		{
+			
+			"Type": "SN",
+			"Date": "08 / 01 / 2021",
+			"No": 608532989512,
+			"Notifiation": "Placeholder for Notification DEscription",
+			"status": "open",
+			"priority": "Top"
+
+
+
+
+		},
+		{
+			
+			"Type": "SN",
+			"Date": "08 / 01 / 2021",
+			"No": 608532989512,
+			"Notifiation": "Placeholder for Notification DEscription",
+			"status": "open",
+			"priority": "Top"
+
+
+
+
+		},
+		{
+			
+			"Type": "SN",
+			"Date": "08 / 01 / 2021",
+			"No": 608532989512,
+			"Notifiation": "Placeholder for Notification DEscription",
+			"status": "open",
+			"priority": "Top"
+
+
+
+
+		},
+{
+			
+			"Type": "SN",
+			"Date": "08 / 01 / 2021",
+			"No": 608532989512,
+			"Notifiation": "Placeholder for Notification DEscription",
+			"status": "open",
+			"priority": "Top"
+
+
+
+
+		}
+
+
+
+	],
+"alaram":[
+{"Date&Time":"08/01/2021|09:25 AM",
+"AlarmCode":412345,
+"DeScription":"TCMS Brake Disc Error",
+"Alaramstate":1
+},
+{"Date&Time":"08/01/2021|09:25 AM",
+"AlarmCode":412345,
+"DeScription":"TCMS Brake Disc Error",
+"Alaramstate":1
+},
+{"Date&Time":"08/01/2021|09:25 AM",
+"AlarmCode":412345,
+"DeScription":"TCMS Brake Disc Error",
+"Alaramstate":0
+},
+{"Date&Time":"08/01/2021|09:25 AM",
+"AlarmCode":412345,
+"DeScription":"TCMS Brake Disc Error",
+"Alaramstate":0
+},
+{"Date&Time":"08/01/2021|09:25 AM",
+"AlarmCode":412345,
+"DeScription":"TCMS Brake Disc Error",
+"Alaramstate":0
+},
+{"Date&Time":"08/01/2021|09:25 AM",
+"AlarmCode":412345,
+"DeScription":"TCMS Brake Disc Error",
+"Alaramstate":1
+}
+
+
+],
+
+	"weighbridge": [{
+			
+			"Type": "weighbridge",
+			"Date": "08 / 01 / 2021",
+			"No": 608532989512,
+			"Notifiation": "weighbridge data changed",
+			"status": "open",
+			"priority": "Top"
+
+
+
+
+		},
+		{
+			
+			"Type": "weighbridge",
+			"Date": "08 / 01 / 2021",
+			"No": 608532989512,
+			"Notifiation": "weighbridge data changed",
+			"status": "open",
+			"priority": "Top"
+
+
+
+
+		},
+		{
+			
+			"Type": "weighbridge",
+			"Date": "08 / 01 / 2021",
+			"No": 608532989512,
+			"Notifiation": "weighbridge data changed",
+			"status": "open",
+			"priority": "Top"
+
+
+
+
+		},
+		{
+			
+			"Type": "weighbridge",
+			"Date": "08 / 01 / 2021",
+			"No": 608532989512,
+			"Notifiation": "weighbridge data changed",
+			"status": "open",
+			"priority": "Top"
+
+
+
+
+		},
+		{
+			
+			"Type": "weighbridge",
+			"Date": "08 / 01 / 2021",
+			"No": 608532989512,
+			"Notifiation": "weighbridge data changed",
+			"status": "open",
+			"priority": "Top"
+
+
+
+
+		},
+{
+			
+			"Type": "weighbridge",
+			"Date": "08 / 01 / 2021",
+			"No": 608532989512,
+			"Notifiation": "weighbridge data changed",
+			"status": "open",
+			"priority": "Top"
+
+
+
+
+		}
+
+
+
+	]
+,
+
+
+	"UFWL": [{
+			
+			"Type": "UFWL",
+			"Date": "08 / 01 / 2021",
+			"No": 608532989512,
+			"Notifiation": "UFWL data changed",
+			"status": "open",
+			"priority": "Top"
+
+
+
+
+		},
+		{
+			
+			"Type": "UFWL",
+			"Date": "08 / 01 / 2021",
+			"No": 608532989512,
+			"Notifiation": "UFWL data changed",
+			"status": "open",
+			"priority": "Top"
+
+
+
+
+		},
+		{
+			
+			"Type": "UFWL",
+			"Date": "08 / 01 / 2021",
+			"No": 608532989512,
+			"Notifiation": "UFWL data changed",
+			"status": "open",
+			"priority": "Top"
+
+
+
+
+		},
+		{
+			
+			"Type": "UFWL",
+			"Date": "08 / 01 / 2021",
+			"No": 608532989512,
+			"Notifiation": "UFWL data changed",
+			"status": "open",
+			"priority": "Top"
+
+
+
+
+		},
+		{
+			
+			"Type": "UFWL",
+			"Date": "08 / 01 / 2021",
+			"No": 608532989512,
+			"Notifiation": "UFWL data changed",
+			"status": "open",
+			"priority": "Top"
+
+
+
+
+		},
+{
+			
+			"Type": "UFWL",
+			"Date": "08 / 01 / 2021",
+			"No": 608532989512,
+			"Notifiation": "UFWL data changed",
+			"status": "open",
+			"priority": "Top"
+
+
+
+
+		}
+
+
+
+	]
+
+
+
+}
